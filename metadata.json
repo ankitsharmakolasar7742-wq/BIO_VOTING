@@ -1,0 +1,8 @@
+{
+  "name": "BIO VOTING",
+  "description": "Biometric face detection voting system with OTP verification, liveness challenges, and election admin portal.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
